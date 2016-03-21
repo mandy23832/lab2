@@ -1,3 +1,5 @@
 # lab2
-make
-./bmi
+>make
+
+
+>./bmi
